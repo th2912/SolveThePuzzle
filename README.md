@@ -1,1 +1,2 @@
 # SolveThePuzzle
+Programming Language: Python
